@@ -1,9 +1,5 @@
 # jwt-auth-api
 Secure REST API authentication using JWT (JSON Web Tokens) with PHP and jQuery frontend
-
-
-# jwt-auth-api
-Secure REST API authentication using JWT (JSON Web Tokens) with PHP and jQuery frontend
 # Protótipo de API com Autenticação JWT em PHP
 
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
