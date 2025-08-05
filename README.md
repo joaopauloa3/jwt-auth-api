@@ -11,11 +11,6 @@ Um projeto de estudo focado na implementação de um fluxo de autenticação `st
 
 ---
 
-### (Fluxo da aplicação)
-
-![Diagrama do fluxo do projeto](https://raw.githubusercontent.com/joaopauloa3/jwt-auth-api/refs/heads/main/image.png)
-
----
 
 ### 🎯 Sobre o Projeto
 
@@ -86,6 +81,12 @@ Siga os passos abaixo para testar a aplicação na sua máquina.
     php -S localhost:8000
     ```
 6.  Acesse `http://localhost:8000` no seu navegador.
+
+---
+
+### (Fluxo da aplicação)
+
+![Diagrama do fluxo do projeto](https://raw.githubusercontent.com/joaopauloa3/jwt-auth-api/refs/heads/main/image.png)
 
 ---
 
