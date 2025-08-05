@@ -10,7 +10,7 @@ Secure REST API authentication using JWT (JSON Web Tokens) with PHP and jQuery f
 Um projeto de estudo focado na implementação de um fluxo de autenticação `stateless` (sem estado) para proteger uma API RESTful, utilizando JSON Web Tokens (JWT).
 
 ---
-
+### Para testar vá até `pdv/index.php`
 
 ### 🎯 Sobre o Projeto
 
